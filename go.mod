@@ -1,4 +1,4 @@
-module gitee.com/Trisia/gotlcp
+module github.com/pedroalbanese/gotlcp
 
 go 1.16
 
